@@ -10,7 +10,7 @@
 "recruitment": "Setting where participants were recuited (community, clinical, other)",
 "instrument": "This variable describes the instrument through which the relevant outcome was measured",
 "time": "The measurement point at which the outcome was obtained (e.g. post or follow-up)",
-"rob": "Risk of bias (low, some concerns, high)",
+"rob": "Risk of bias (low, some concerns, high). The overwhelming number of studies had a high risk of bias, so this variable was set to NA.",
 "time_weeks": "The measurement point at which the outcome was obtained, in weeks after randomization (set to NA if this information was not available)",
 "n_arm1": "Number of participants arm 1",
 "n_arm2": "Number of participants arm 2",

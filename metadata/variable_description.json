@@ -1,8 +1,21 @@
 {
-    "study": "Author of the study",
-    "year": "Year of the study",
-    "es": "calculated effect size",
-    "se": "standard error of the calculated effect size",
-    "condition_arm1": "condition in the first arm (cbt = cognitive-behavioral therapy, pst = problem-solving therapy)",
-    "trggrp": "target group"
+"study": "Author and year of publication",
+"condition_arm1": "Type of treatment (CBT= cognitive behaviour therapy, CT = cognitive therapy, BT = behaviour therapy, PT = physiological therapy, PD = psychodynamic therapy, IPT = interpersonal psychotherapy, EMDR = EMDR, 3W = third wave therapy)",
+"condition_arm2": "Type of comparator (TAU/NT = treatment as usual / no treatment, WL = waitlist, PE = psychoeducation, SP = supportive psychotherapy, APP = attention or psychological placebo, PL =  placebo, BZP = benzodiazepine, AD = antidepressant)",
+"multi_arm1": "Treatment group in multi-arm trials",
+"multi_arm2": "Comparison group in multi-arm trials",
+"country": "Study conducted in western or non-western country",
+"disorder": "Primary mental health problem of the sample",
+"age_category": "Age category of the sample (children up to 13, adolescents up to 18, young adults up to 24, adults, older adults (55+))",
+"recruitment": "Setting where participants were recuited (community, clinical, other)",
+"instrument": "This variable describes the instrument through which the relevant outcome was measured",
+"time": "The measurement point at which the outcome was obtained (e.g. post or follow-up)",
+"rob": "Risk of bias (low, some concerns, high)",
+"time_weeks": "The measurement point at which the outcome was obtained, in weeks after randomization (set to NA if this information was not available)",
+"n_arm1": "Number of participants arm 1",
+"n_arm2": "Number of participants arm 2",
+"outcome_type": "Suicidal ideation or suicide attempt (including self-harm leading to hospitalisation)",
+"Hedges g": "standardised mean difference (metapsyTools generated variable)",
+"Standard error": "standard error (metapsyTools generated variable)",
+"RR": "Relative risk (metapsyTools generated variable)"
 }

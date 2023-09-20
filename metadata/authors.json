@@ -1,14 +1,26 @@
 [
     {
-        "name": "Pim Cuijpers",
-        "orcid": "0000-0001-5497-2743"
+        "name": "Wouter van Ballegooijen",
+        "orcid": "0000-0002-9189-6695"
+    },
+    {
+        "name": "Josine Rawee",
+        "orcid": "0000-0002-7603-9417"
+    },
+    {
+        "name": "Christina Palantza",
+        "orcid": "0000-0003-2224-5343"
     },
     {
         "name": "Clara Miguel",
         "orcid": "0000-0001-5563-5896"
     },
     {
-        "name": "Eirini Karyotaki",
-        "orcid": "0000-0002-0071-2599"
+        "name": "Mathias Harrer",
+        "orcid": "0000-0001-7016-2687"
+    },
+    {
+        "name": "Pim Cuijpers",
+        "orcid": "0000-0001-5497-2743"
     }
 ]
